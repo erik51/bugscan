@@ -1,13 +1,11 @@
-webpwn3r
+Bugscan
 ========
 
-WebPwn3r - Web Applications Security Scanner.
+Bugscan - Web Applications Security Scanner.
 
-By Ebrahim Hegazy - @Zigoo0
+By MR.ECJ7- @erik
 
-Thanks: @lnxg33k, @dia2diab @Aelhemily, @okamalo 
-
-Please send all your feedback and suggestions to: zigoo.blog['at']@gmail.com
+Thanks: @erik
 
 How to use:
 
@@ -23,9 +21,6 @@ How to use:
 
 .e.g http://localhost/rand/news.php?com=val&id=11&page=24&text=zigoo
 
-same thing with the list of links.
-
-Demo Video: https://www.youtube.com/watch?v=B6kDUk-ehOE
 
 In it’s Current Public [Demo] version, WebPwn3r got below Features:
 
@@ -45,4 +40,3 @@ In it’s Current Public [Demo] version, WebPwn3r got below Features:
 
 8- Finger-Print the backend Technologies.
 
-More details: http://www.sec-down.com/wordpress/?p=373
