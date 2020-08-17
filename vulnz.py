@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # WebPwn3r is a Web Applications Security Scanner
-# By Ebrahim Hegazy - twitter.com/zigoo0
-# First demo conducted 12Apr-2014 @OWASP Chapter Egypt
-# https://www.owasp.org/index.php/Cairo
+# By MR.ECJ7 - erik
 import urllib
 import re
 from headers import *
