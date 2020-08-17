@@ -1,8 +1,6 @@
 #!/usr/bin/env python
-# WebPwn3r is a Web Applications Security Scanner
-# By Ebrahim Hegazy - twitter.com/zigoo0
-# First demo conducted 12Apr-2014 @OWASP Chapter Egypt
-# https://www.owasp.org/index.php/Cairo
+# Bugscan is a Web Applications Security Scanner
+# By MR.ECJ7
 import re
 import urllib
 from headers import *
@@ -25,12 +23,11 @@ print ga.green+'''
 ───────────────────────────────────────────────────────────────
                                                     
         ##############################################################
-        #| "WebPwn3r" Web Applications Security Scanner              #
-        #|  By Ebrahim Hegazy - @Zigoo0                              #
+        #| "BugScan" Web Applications Security Scanner               #
+        #|  By MR.ECJ7- @erik                                        #
         #|  This Version Supports Remote Code/Command Execution, XSS #
         #|  And SQL Injection.                                       #
-	#|  Thanks @lnxg33k, @dia2diab @Aelhemily, @okamalo          #
-	#|  More Details: http://www.sec-down.com/wordpress/?p=373   #
+        #|. GitHub :https://github.com/erik51/bugscan.               #
         ##############################################################
         '''+ga.end
 
